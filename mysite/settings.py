@@ -25,7 +25,7 @@ SECRET_KEY = 'l-imxezxn1zgw#jg1y0kag6ratou@9e!^9=5s1+i15&dihn_5m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.phytonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'voldzia.phytonanywhere.com']
 
 
 # Application definition
